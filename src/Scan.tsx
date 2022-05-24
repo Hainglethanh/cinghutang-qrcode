@@ -180,7 +180,7 @@ export const Scan = () => {
       )}
       {scanning && (
         <QrReader
-          constraints={{ facingMode: "user" }}
+          constraints={{ facingMode: "environment" }}
           onResult={(res) => {
             if (res) {
               onResult(res.getText());

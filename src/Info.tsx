@@ -63,7 +63,7 @@ function Info() {
   return (
     <div>
       <img
-        src="https://kitwind.io/assets/kometa/half-browser.png"
+        src="https://i.postimg.cc/hjpyk0dt/z3440002957964-d02b39ed43fac0c014f4cf13569dcf00.png"
         className="object-cover w-full"
         alt=""
       />
@@ -104,8 +104,13 @@ function Info() {
               1000 ly trà sữa miễn phí nhân dịp khai trương
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque rem aperiam, eaque ipsa quae.
+              Nhận ngay 01 ly{" "}
+              <strong className="bg-amber-400 rounded p-1">
+                sữa tươi trân châu đường đen
+              </strong>{" "}
+              miễn phí khi tham gia chương trình khai trương tại{" "}
+              <strong>Cing Hu Tang Cô Giang </strong> địa chỉ{" "}
+              <strong> 07 Cô Giang - Hải Châu - Đà Nẵng </strong>
             </p>
           </div>
           <form
@@ -141,8 +146,8 @@ function Info() {
             </button>
           </form>
           <p className="max-w-md mb-10 text-xs text-gray-600 sm:text-sm md:text-center">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium.
+            Chương trình diễn ra vào khung giờ <strong>10h-12h</strong> từ ngày{" "}
+            <strong>01/06 đến 03/06 năm 2022</strong>
           </p>
         </div>
       </div>

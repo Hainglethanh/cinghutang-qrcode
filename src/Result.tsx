@@ -14,7 +14,7 @@ export const Result = () => {
   return (
     <div>
       <img
-        src="https://kitwind.io/assets/kometa/half-browser.png"
+        src="https://i.postimg.cc/hjpyk0dt/z3440002957964-d02b39ed43fac0c014f4cf13569dcf00.png"
         className="object-cover w-full"
         alt=""
       />
