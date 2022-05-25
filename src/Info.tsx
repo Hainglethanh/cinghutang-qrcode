@@ -44,7 +44,7 @@ function Info() {
     });
     if (docRef.id) {
       navigate(
-        `/result/?$name=${data.name}&phoneNumber=${data.phoneNumber}&time=${time}`
+        `/result/?name=${data.name}&phoneNumber=${data.phoneNumber}&time=${time}`
       );
     }
     console.log("Document written with ID: ", docRef.id);
