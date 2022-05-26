@@ -101,7 +101,7 @@ function Info() {
                 </svg>
                 <span className="relative">Tặng</span>
               </span>{" "}
-              1000 ly trà sữa miễn phí nhân dịp khai trương
+              1000 ly trà sữa MIỄN PHÍ nhân dịp khai trương
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
               Nhận ngay 01 ly{" "}
@@ -109,7 +109,8 @@ function Info() {
                 sữa tươi trân châu đường đen
               </strong>{" "}
               miễn phí khi tham gia chương trình khai trương tại{" "}
-              <strong>Cing Hu Tang Cô Giang </strong> địa chỉ{" "}
+              <strong>Cing Hu Tang Cô Giang </strong>
+              <br></br>Địa chỉ:
               <strong> 07 Cô Giang - Hải Châu - Đà Nẵng </strong>
             </p>
           </div>
@@ -146,8 +147,8 @@ function Info() {
             </button>
           </form>
           <p className="max-w-md mb-10 text-xs text-gray-600 sm:text-sm md:text-center">
-            Chương trình diễn ra vào khung giờ <strong>10h-12h</strong> từ ngày{" "}
-            <strong>01/06 đến 03/06 năm 2022</strong>
+            Chương trình diễn ra vào khung giờ <strong>19-21h</strong> từ ngày{" "}
+            <strong>01/06/2022</strong>
           </p>
         </div>
       </div>
