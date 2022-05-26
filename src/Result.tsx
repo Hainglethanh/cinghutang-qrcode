@@ -17,7 +17,7 @@ export const Result = () => {
         async
         defer
         crossOrigin="anonymous"
-        src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v14.0&appId=809591582535382&autoLogAppEvents=1"
+        src="https://serving.photos.photobox.com/48670267162a01b0e08f3d8ce4e0e97e200034181dff2bfcc9d344e14d17650a92697360.jpg"
         nonce="6ijBtW0p"
       ></script>
       <div>

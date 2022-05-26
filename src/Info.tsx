@@ -63,7 +63,7 @@ function Info() {
   return (
     <div>
       <img
-        src="https://i.postimg.cc/hjpyk0dt/z3440002957964-d02b39ed43fac0c014f4cf13569dcf00.png"
+        src="https://serving.photos.photobox.com/48670267162a01b0e08f3d8ce4e0e97e200034181dff2bfcc9d344e14d17650a92697360.jpg"
         className="object-cover w-full"
         alt=""
       />
