@@ -23,6 +23,7 @@ export const Scan = () => {
           data: doc.data(),
         });
       });
+
       setCustomers(data);
     });
     return unsubscribe;

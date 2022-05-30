@@ -1,15 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { QRCode } from "react-qrcode-logo";
 import { useSearchParams } from "react-router-dom";
 
 export const Result = () => {
   const [searchParams] = useSearchParams();
-  console.log(searchParams.get("name")); // ▶ URLSearchParams {}
   const name = searchParams.get("name");
   const phoneNumber = searchParams.get("phoneNumber");
   const time = searchParams.get("time");
 
-  const qrCode = `${time}_Cinghutang_CoGiang_${name}_${phoneNumber}`;
+  const qrCode = `1653824358274_Cinghutang_CoGiang_Công_0923167614`;
 
   return (
     <>
@@ -17,7 +16,7 @@ export const Result = () => {
         async
         defer
         crossOrigin="anonymous"
-        src="https://serving.photos.photobox.com/48670267162a01b0e08f3d8ce4e0e97e200034181dff2bfcc9d344e14d17650a92697360.jpg"
+        src="https://i.imgur.com/J9pv3sV.png"
         nonce="6ijBtW0p"
       ></script>
       <div>
