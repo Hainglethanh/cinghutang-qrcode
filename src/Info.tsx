@@ -115,7 +115,9 @@ function Info() {
               <br />
               TỪ <strong>29/5 - 10/6</strong>
               Cảm ơn quý khách hàng đã tin tưởng và ủng hộ{" "}
-              <strong>Cing Hu Tang số 07 Cô Giang - Đà Nẵng</strong>
+              <strong>Cing Hu Tang</strong>
+              <br />
+              <strong>số 07 Cô Giang - Đà Nẵng</strong>
             </p>
           </div>
           {/* <form
