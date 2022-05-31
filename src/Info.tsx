@@ -99,22 +99,26 @@ function Info() {
                     height="24"
                   />
                 </svg>
-                <span className="relative">Tặng</span>
+                <span className="relative">SỐ</span>
               </span>{" "}
-              1000 ly trà sữa MIỄN PHÍ nhân dịp khai trương
+              LƯỢNG KHÁCH HÀNG ĐĂNG KÝ ĐÃ ĐỦ 1000 NGƯỜI
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
-              Nhận ngay 01 ly{" "}
+              <strong>CING HU TANG XIN PHÉP ĐÓNG LINK ĐĂNG KÝ</strong>
+              <br />
+              BÊN CẠNH CHƯƠNG TRÌNH TẶNG 1000 LY TRÀ SỮA FREE
+              <br />
+              CING HU TANG VẪN TRIỂN KHAI CHƯƠNG TRÌNH{" "}
               <strong className="bg-amber-400 rounded p-1">
-                sữa tươi trân châu đường đen
+                MUA 1 TẶNG 1
               </strong>{" "}
-              miễn phí khi tham gia chương trình khai trương tại{" "}
-              <strong>Cing Hu Tang Cô Giang </strong>
-              <br></br>Địa chỉ:
-              <strong> 07 Cô Giang - Hải Châu - Đà Nẵng </strong>
+              <br />
+              TỪ <strong>29/5 - 10/6</strong>
+              Cảm ơn quý khách hàng đã tin tưởng và ủng hộ{" "}
+              <strong>Cing Hu Tang số 07 Cô Giang - Đà Nẵng</strong>
             </p>
           </div>
-          <form
+          {/* <form
             onSubmit={handleSubmit(onSubmit)}
             className="flex flex-col items-center w-full mb-4 md:flex-row"
           >
@@ -149,7 +153,7 @@ function Info() {
           <p className="max-w-md mb-10 text-xs text-gray-600 sm:text-sm md:text-center">
             Chương trình diễn ra vào khung giờ <strong>19-21h</strong> từ ngày{" "}
             <strong>01/06/2022</strong>
-          </p>
+          </p> */}
         </div>
       </div>
     </div>
